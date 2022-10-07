@@ -14,6 +14,75 @@ a {
   font-family: "Montserrat", sans-serif;
 }
 
+/*=========== nav =============*/
+/*---------- header ----------*/
+.banner {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem 3rem;
+  padding: 1rem;
+}
+
+nav {
+  display: contents;
+}
+
+nav ul {
+  display: flex;
+  flex-flow: column;
+  flex: 1 1 100%;
+  gap: 0 2rem;
+  padding-block-start: 1rem;
+}
+
+nav li {
+  display: grid;
+}
+
+/*---------- links i nav ----------*/
+nav a {
+  margin-inline: -1rem;
+  padding-inline: 1rem;
+  border-radius: 6px;
+  padding-block: 1rem;
+  letter-spacing: 10px;
+  -webkit-text-stroke: 0.6px red;
+  font-size: 1.1rem;
+}
+
+/*---------- Burger menu ----------*/
+@media (max-width: 600px) {
+  .toggle-btn {
+    background: transparent;
+    color: black;
+    border: none;
+    display: block;
+    width: 44px;
+    height: 44px;
+    padding: 0.25rem;
+    cursor: pointer;
+  }
+
+  nav {
+    display: none;
+  }
+
+  nav.shown {
+    border-top: 1px solid;
+    padding-top: 1rem;
+    display: flex;
+    flex: 1 1 100%;
+    flex-flow: column;
+  }
+
+  nav ul {
+    display: flex;
+    flex-flow: column;
+  }
+}
+
 #hero_22 {
   color: #ff1e1c;
   -webkit-text-fill-color: transparent;
@@ -44,9 +113,30 @@ hr {
   margin-top: 10px;
 }
 
-#køb_dato {
+#show1_date {
   transform-origin: top left;
   left: 0;
   top: 0;
   transform: rotate(-90deg) translateX(-100%);
 }
+
+#show1_venue {
+  line-height: 50px;
+  color: #000000;
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke-width: 1px;
+}
+
+#show3_knap {
+  transform-origin: top right;
+  right: 0;
+  top: 0;
+  transform: rotate(90deg) translateX(70%) translateY(100%);
+}
+
+/* #pil_ned {
+  bottom: 0;
+  position: absolute;
+  min-width: 30px;
+  margin: 0px calc(50vw - 15px);
+} */
