@@ -1,3 +1,52 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: "Oswald", sans-serif;
+}
+
+p,
+a {
+  font-family: "Montserrat", sans-serif;
+}
+
+#hero_22 {
+  color: #ff1e1c;
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke-width: 1px;
+}
+
+#forestillinger_1,
+#forestillinger_2 {
+  line-height: 50px;
+  color: #f6768f;
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke-width: 1px;
+}
+
+#forestillinger_3 {
+  color: #ff1e1c;
+}
+
+#hero_festival {
+  line-height: 60px;
+}
+
+hr {
+  color: #000000;
+  background-color: #000000;
+  border: none;
+  height: 1px;
+  margin-top: 10px;
+}
+
+#køb_dato {
+  transform-origin: top left;
+  left: 0;
+  top: 0;
+  transform: rotate(-90deg) translateX(-100%);
+}
