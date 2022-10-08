@@ -209,6 +209,8 @@ nav a {
   -webkit-text-fill-color: transparent;
   -webkit-text-stroke-width: 1px;
   font-weight: 900;
+  font-size: 4rem;
+  padding-left: 0.4rem;
 }
 
 /* ---------- Forestilling_2 ---------- */
