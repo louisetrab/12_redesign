@@ -3,9 +3,9 @@ module.exports = {
   content: ["./src/**/*.{html,vue,js,ts,jsx,tsx}"],
   theme: {
     extend: {
-      color {
-        
-      vildred: "#ff1e1c",
+      colours: {
+        'vildred': "#FF1E1C",
+        'vildorange': '#FDB813'
       },
     },
   },
