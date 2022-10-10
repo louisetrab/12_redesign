@@ -12,6 +12,11 @@ module.exports = {
         vildteal: "#4ACCD9",
         vildpink: "#F6768F",
       },
+
+      fontFamily: {
+        montserrat: ["Montserrat", "sans-serif"]
+
+      },
     },
   },
   plugins: [require("@tailwindcss/typography"), require("@tailwindcss/forms")],
