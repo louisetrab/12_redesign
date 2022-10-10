@@ -466,10 +466,84 @@ nav a {
   padding-bottom: 20px;
 }
 
+#nikita img {
+  background: #1956ff;
+}
+
+#kirstine img {
+  background: #c8b1dd;
+}
+
+#vibeke img {
+  background: #f8eb00;
+}
+
+#stina img {
+  background: #fdb813;
+}
+
+#louise img {
+  background: #4accd9;
+}
+
+#baldrian img {
+  background: #eeeeee;
+}
+
 #om_info {
   font-size: 0.65rem;
 }
 
 #om_info span {
   font-weight: bold;
+}
+
+#samarbejde_h2 {
+  font-size: 2.4rem;
+  font-weight: 300;
+  color: #ff1e1c;
+}
+
+#samarbejde {
+  font-weight: 500;
+}
+
+#frivillig h2 {
+  color: #ff1e1c;
+  font-size: 5rem;
+  font-weight: 900;
+  line-height: 64px;
+  padding-bottom: 25px;
+}
+
+#frivillig p span {
+  font-weight: bold;
+}
+
+#frivillig_para2 {
+  padding-top: 20px;
+}
+
+#frivillig_para3 {
+  padding-top: 20px;
+}
+
+#frivillig_para4 {
+  padding-top: 20px;
+}
+
+#frivillig_para5 {
+  padding-top: 20px;
+}
+
+#frivillig_para6 {
+  padding-top: 20px;
+}
+
+#frivillig_para7 {
+  padding-top: 20px;
+}
+
+#frivillig_para8 {
+  padding-top: 20px;
 }
