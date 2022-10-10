@@ -413,18 +413,6 @@ nav a {
 
 /* ---------- Forestilling_7 ---------- */
 
-/* ---------- Købsprocess_info ---------- */
-
-/* ---------- Købsprocess_pil ---------- */
-#pil_ned {
-  /* bottom: 0;
-  position: absolute;
-  min-width: 30px; */
-  /* margin: 0px calc(50vw - 15px); */
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-
 /* ---------- Købsprocess_trin ---------- */
 
 /* ---------- Om ---------- */
@@ -557,10 +545,9 @@ nav a {
   letter-spacing: -10px;
 }
 
-
 /* ---------Program --------------*/
 
-#color_block_pro{
+#color_block_pro {
   border-right: 20px solid #ff1e1c;
   transform: translateX(-0%) translateY(0%) scaleY(40%) scaleX(152%)
     rotate(-90deg);
