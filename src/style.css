@@ -547,3 +547,11 @@ nav a {
 #frivillig_para8 {
   padding-top: 20px;
 }
+
+/* ---------- Events ---------- */
+#events_head {
+  color: #ff1e1c;
+  font-weight: 900;
+  font-size: 4rem;
+  letter-spacing: -10px;
+}
