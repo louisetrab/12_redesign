@@ -3,9 +3,14 @@ module.exports = {
   content: ["./src/**/*.{html,vue,js,ts,jsx,tsx}"],
   theme: {
     extend: {
-      colours: {
-        'vildred': "#FF1E1C",
-        'vildorange': '#FDB813'
+      colors: {
+        vildred: "#FF1E1C",
+        vildblue: "#1956FF",
+        vildpurple: "#C8B1DD",
+        vildyellow: "#F8EB00",
+        vildorange: "#FDB813",
+        vildteal: "#4ACCD9",
+        vildpink: "#F6768F",
       },
     },
   },
