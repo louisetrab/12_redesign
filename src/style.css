@@ -463,6 +463,7 @@ nav a {
   font-size: 5rem;
   font-weight: 300;
   line-height: 80px;
+  padding-bottom: 20px;
 }
 
 #om_info {
@@ -472,52 +473,3 @@ nav a {
 #om_info span {
   font-weight: bold;
 }
-
-/* #nikita img {
-  position: relative; */
-/*position: relative;
-  //position: fixed;*/
-/* left: 0px;
-  top: 0px;
-  z-index: -1;
-} */
-
-/* #nikita_baggrund1 {
-  margin: auto;
-  width: 140px;
-  height: 180px;
-  background: black;
-  position: relative;
-} */
-
-/* #nikita_baggrund2 {
-  margin: auto;
-  width: 140px;
-  height: 180px;
-  background: red;
-  position: relative;
-} */
-
-#color_block1 {
-  transform: translateX(-20%) translateY(10%) scaleY(60%) scaleX(152%)
-    rotate(-90deg);
-}
-
-#color_block1 .blue {
-  background-color: #1956ff;
-  padding: 18px;
-
-  /* transform: translateX(-50%) translateY(340%) scaleY(50%) rotate(-90deg); */
-}
-
-#color_block1 .purple {
-  background-color: #c8b1dd;
-  padding: 26px;
-
-  /* transform: translateX(-40%) translateY(240%) scaleY(50%) rotate(-90deg); */
-}
-
-/* .holdet_grid {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-} */

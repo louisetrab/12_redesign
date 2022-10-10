@@ -1,6 +1,6 @@
 import "./style.css";
 /* Import af Motion One bibliotek */
-import { animate, stagger, inView, scroll, timeline } from "motion";
+// import { animate, stagger, inView, scroll, timeline } from "motion";
 
 // Lav en variabel, der refererer til ".toggle-btn"
 const btn = document.querySelector(".toggle-btn");
