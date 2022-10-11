@@ -545,44 +545,44 @@ nav a {
   letter-spacing: -10px;
 }
 
-/* ---------Program --------------*/
+/* ---------Color Blok Lille --------------*/
 
-#color_block_pro {
-  border-right: 20px solid #ff1e1c;
-  transform: translateX(-0%) translateY(0%) scaleY(40%) scaleX(152%)
+#color_block_sm {
+  border-right: 30px solid #ff1e1c;
+  transform: translateX(-0%) translateY(-10%) scaleY(30%) scaleX(152%)
     rotate(-90deg);
 }
-#color_block_pro .blue {
+#color_block_sm .blue {
   background-color: #1956ff;
   padding: 18px;
 }
 
-#color_block_pro .purple {
+#color_block_sm .purple {
   background-color: #c8b1dd;
   padding: 26px;
 }
 
-#color_block_pro .yellow {
+#color_block_sm .yellow {
   background-color: #f8eb00;
   padding: 10px;
 }
 
-#color_block_pro .orange {
+#color_block_sm .orange {
   background-color: #fdb813;
   padding: 17px;
 }
 
-#color_block_pro .teal {
+#color_block_sm .teal {
   background-color: #4accd9;
   padding: 13px;
 }
 
-#color_block_pro .white {
+#color_block_sm .white {
   background-color: #eeeeee;
   padding: 10px;
 }
 
-#color_block_pro .pink {
+#color_block_sm .pink {
   background-color: #f6768f;
   padding: 15px;
 }
