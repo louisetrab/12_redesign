@@ -658,6 +658,7 @@ nav a {
   transition-delay: 200ms;
   display: grid;
   place-content: center;
+  padding-left: 20px;
 }
 
 /* #slide p {
@@ -669,25 +670,50 @@ nav a {
 } */
 
 #køb_header {
-  line-height: 50px;
+  line-height: 40px;
   -webkit-text-fill-color: transparent;
   -webkit-text-stroke-width: 1px;
   font-weight: 900;
   font-size: 3.6rem;
   text-align: center;
-  padding-bottom: 30px;
+  padding-bottom: 20px;
 }
 
 #køb_info1 {
-  padding-bottom: 30px;
+  padding-bottom: 10px;
   font-weight: 500;
   font-size: 1.1rem;
   letter-spacing: 2px;
+  /* text-align: center; */
 }
 
 #køb_info2 {
   font-weight: 600;
   line-height: 20px;
+  font-size: 0.9rem;
+}
+
+#køb_info3 {
+  font-weight: 600;
+  line-height: 20px;
+}
+
+#køb1 {
+  line-height: 25px;
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke-width: 1px;
+  font-weight: 900;
+  font-size: 2rem;
+  text-align: center;
+}
+
+#køb2 {
+  line-height: 25px;
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke-width: 1px;
+  font-weight: 900;
+  font-size: 2rem;
+  text-align: center;
 }
 
 .slide[data-active] {
@@ -723,11 +749,11 @@ nav a {
 }
 
 .carousel-button.prev {
-  left: 1rem;
+  left: 0.5rem;
 }
 
 .carousel-button.next {
-  right: 1rem;
+  right: 0.5rem;
 }
 
 /* ---------Color Blok Lille --------------*/
