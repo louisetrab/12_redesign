@@ -133,18 +133,12 @@ nav a {
   -webkit-text-stroke-width: 1px;
 }
 
-/* ---------- Color Block ---------- */
+/* ---------- Color Block Landing ---------- */
 #color_block {
   border-right: 20px solid #ff1e1c;
-  transform: translateX(-0%) translateY(20%) scaleY(60%) scaleX(152%)
+  transform: translateX(-0%) translateY(10%) scaleY(60%) scaleX(152%)
     rotate(-90deg);
 }
-
-/* #color_block_top .red {
-  background-color: #ff1e1c;
-  padding: 10px;
-  width: 100%;
-} */
 
 #color_block .blue {
   background-color: #1956ff;
@@ -224,7 +218,6 @@ nav a {
 
 #show1_venue {
   line-height: 50px;
-  /* color: #000000; */
   -webkit-text-fill-color: transparent;
   -webkit-text-stroke-width: 1px;
   font-weight: 900;
@@ -415,7 +408,7 @@ nav a {
 
 /* ---------- Købsprocess_trin ---------- */
 
-/* ---------- Om ---------- */
+/* ---------- OM ---------- */
 #om_overskrift {
   color: #ff1e1c;
   font-size: 15rem;
@@ -537,12 +530,13 @@ nav a {
   padding-top: 20px;
 }
 
-/* ---------- Events ---------- */
+/* ---------- EVENTS ---------- */
 #events_head {
   color: #ff1e1c;
   font-weight: 900;
   font-size: 4rem;
   letter-spacing: -10px;
+  padding-right: 8px;
 }
 
 /* ---------Color Blok Lille --------------*/
