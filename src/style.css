@@ -770,3 +770,7 @@ nav a {
   background-color: #f6768f;
   padding: 15px;
 }
+
+#show_pic {
+  transform: translateX(-0%) translateY(-40%) scaleY(100%) scaleX(100%);
+}
