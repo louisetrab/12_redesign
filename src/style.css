@@ -539,6 +539,104 @@ nav a {
   padding-right: 8px;
 }
 
+/* ---------- Event_1 ---------- */
+#event1 {
+  padding-bottom: 80px;
+}
+
+#event2 {
+  padding-bottom: 80px;
+}
+
+#event3 {
+  padding-bottom: 80px;
+}
+
+#event_date {
+  transform-origin: top left;
+  left: 0;
+  top: 0;
+  transform: rotate(90deg) translateX(0) translateY(-60%);
+  font-size: 1rem;
+  font-weight: 300;
+}
+
+#event_venue {
+  line-height: 50px;
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke-width: 1px;
+  font-weight: 900;
+  font-size: 3.6rem;
+}
+
+#event_alt {
+  transform: translateX(-50%);
+}
+
+#event_button {
+  margin-top: 50px;
+  margin-left: 50px;
+}
+
+/* ---------- Tilbage knap ---------- */
+#tilbage_knap {
+  padding-bottom: 80px;
+}
+
+/* ---------- Billettyper ---------- */
+#billet_typer {
+  transform-origin: top left;
+  left: 0;
+  top: 0;
+  transform: rotate(-90deg) translateX(-110%) translateY(20%);
+  padding-top: 2px;
+  font-size: 1.1rem;
+}
+
+#billet_endags {
+  font-size: 4.5rem;
+  letter-spacing: -3px;
+  font-weight: 300;
+  margin-top: -25px;
+}
+
+#billet_partout {
+  font-size: 4rem;
+  letter-spacing: -3px;
+  font-weight: 300;
+  margin-bottom: -20px;
+}
+
+#billettyper hr {
+  margin-top: -10px;
+  margin-bottom: -10px;
+  width: 125%;
+}
+
+#billet_pris1 {
+  font-weight: 600;
+  margin-bottom: -5px;
+}
+
+#billet_info1 {
+  font-size: 0.8rem;
+  font-weight: 300;
+}
+
+#billet_info2 {
+  font-size: 0.8rem;
+  font-weight: 300;
+}
+
+#billet_pris2 {
+  font-weight: 600;
+  margin-top: -5px;
+}
+
+#billet_alt {
+  transform: translateX(-50%);
+}
+
 /* ---------Color Blok Lille --------------*/
 
 #color_block_sm {
