@@ -642,6 +642,7 @@ nav a {
   width: 100vw;
   height: 50vh;
   position: relative;
+  margin-left: 3px;
 }
 
 .carousel > ul {
@@ -744,9 +745,9 @@ nav a {
   background-color: rgba(0, 0, 0, 0.2);
 } */
 
-.carousel-button:focus {
+/* .carousel-button:focus {
   outline: 1px solid black;
-}
+} */
 
 .carousel-button.prev {
   left: 0.5rem;
