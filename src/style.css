@@ -75,7 +75,6 @@ nav a {
     padding: 0.25rem;
     cursor: pointer;
     font-size: 200%;
-
   }
 
   nav {
@@ -530,58 +529,12 @@ nav a {
   padding-top: 20px;
 }
 
-/* ---------- EVENTS ---------- */
-#events_head {
-  letter-spacing: -6px;
-}
-
-/* ---------- Event_1 ---------- */
-#event1 {
-  padding-bottom: 80px;
-}
-
-#event2 {
-  padding-bottom: 80px;
-}
-
-#event3 {
-  padding-bottom: 80px;
-}
-
-#event_date1 {
-  transform-origin: top left;
-  left: 0;
-  top: 0;
-  transform: rotate(90deg) translateX(-35%) translateY(-55%);
-  font-size: 1rem;
-}
-
-#event_date2 {
-  transform-origin: top left;
-  left: 0;
-  top: 0;
-  transform: rotate(90deg) translateX(-35%) translateY(-47%);
-  font-size: 1rem;
-}
-
-#event_date3 {
-  transform-origin: top left;
-  left: 0;
-  top: 0;
-  transform: rotate(90deg) translateX(-35%) translateY(-47%);
-  font-size: 1rem;
-}
-
 #event_venue {
   line-height: 50px;
   -webkit-text-fill-color: transparent;
   -webkit-text-stroke-width: 1px;
   font-weight: 900;
   font-size: 3.6rem;
-}
-
-#event_alt {
-  transform: translateX(-50%);
 }
 
 /* ---------- Tilbage knap ---------- */
