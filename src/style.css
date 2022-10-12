@@ -15,11 +15,6 @@ p {
   font-family: "Montserrat", sans-serif;
 }
 
-#first_section {
-  position: relative;
-  z-index: 10;
-}
-
 /* ---------- Streg ---------- */
 hr {
   color: #000000;
@@ -31,6 +26,11 @@ hr {
 
 /*=========== nav =============*/
 /*---------- header ----------*/
+#first_section {
+  position: relative;
+  z-index: 10;
+}
+
 .banner {
   display: flex;
   flex-wrap: wrap;
