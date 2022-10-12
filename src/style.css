@@ -75,6 +75,7 @@ nav a {
     padding: 0.25rem;
     cursor: pointer;
     font-size: 200%;
+
   }
 
   nav {
@@ -733,7 +734,7 @@ nav a {
   font-weight: 900;
   top: 50%;
   transform: translateY(-50%);
-  color: #7e7e7e;
+  /* color: #7e7e7e; */
   cursor: pointer;
   border-radius: 0.25rem;
   padding: 0 0.5rem;
