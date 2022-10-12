@@ -2,6 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
+@font-face {
+  font-family: Arial_blk;
+  src: url(arial_blk.woff2) format("woff2");
+}
+
 h1,
 h2,
 h3,
@@ -201,6 +206,12 @@ nav a {
 }
 
 /* ---------- Forestilling_1 ---------- */
+
+.arial {
+  font-family: arial_blk;
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke-width: 0.6px;
+}
 #show_1 {
   padding-top: 10px;
 }
