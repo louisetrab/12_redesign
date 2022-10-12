@@ -411,46 +411,47 @@ nav a {
 }
 
 /* ---------- OM ---------- */
-#om_overskrift {
-  color: #ff1e1c;
+.om_overskrift {
   font-size: 15rem;
-  font-weight: bold;
-  text-align: center;
   line-height: 200px;
+
+  /* font-weight: bold;
+  text-align: center;
+   */
 }
 
-#om_vildskud {
+/* #om_vildskud {
   padding-left: 20px;
   padding-top: 20px;
-}
+} */
 
-#om_scenekunst {
+/* #om_scenekunst {
   color: #ff1e1c;
   font-size: 1.2rem;
   font-weight: 300;
-}
+} */
 
-#om_vildskud2,
+/* #om_vildskud2,
 #om_vildskud3,
 #om_vildskud4,
 #om_vildskud5 {
   white-space: pre-line;
-}
+} */
 
-#holdet {
+/* #holdet {
   padding-left: 20px;
   padding-top: 20px;
-}
+} */
 
-#holdet_overskrift {
+/* #holdet_overskrift {
   color: #ff1e1c;
   font-size: 5rem;
   font-weight: 300;
   line-height: 80px;
   padding-bottom: 20px;
-}
+} */
 
-#nikita img {
+/* #nikita img {
   background: #1956ff;
 }
 
@@ -460,15 +461,15 @@ nav a {
 
 #vibeke img {
   background: #f8eb00;
-}
+} */
 /* 
 #stina img {
   background: ;
 } */
 
-#louise img {
+/* #louise img {
   background: #4accd9;
-}
+} */
 
 /* #baldrian img {
   background: #eeeeee;
@@ -482,28 +483,28 @@ nav a {
   font-weight: bold;
 }
 
-#samarbejde_h2 {
+/* #samarbejde_h2 {
   font-size: 2.4rem;
   font-weight: 300;
   color: #ff1e1c;
-}
+} */
 
-#samarbejde {
+/* #samarbejde {
   font-weight: 500;
-}
+} */
 
-#frivillig h2 {
+/* #frivillig h2 {
   color: #ff1e1c;
   font-size: 5rem;
   font-weight: 900;
   line-height: 64px;
   padding-bottom: 25px;
-}
-
+} */
+/* 
 #frivillig p span {
   font-weight: bold;
-}
-
+} */
+/* 
 #frivillig_para2 {
   padding-top: 20px;
 }
@@ -530,7 +531,7 @@ nav a {
 
 #frivillig_para8 {
   padding-top: 20px;
-}
+} */
 
 #event_venue {
   line-height: 50px;
