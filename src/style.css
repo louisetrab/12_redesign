@@ -75,7 +75,6 @@ nav a {
     padding: 0.25rem;
     cursor: pointer;
     font-size: 200%;
-
   }
 
   nav {
@@ -180,16 +179,20 @@ nav a {
 }
 
 /* ---------- Forestillinger ---------- */
-#forestillinger_1,
+#forestillinger_1 {
+  line-height: 50px;
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke-width: 0.3px;
+}
+
 #forestillinger_2 {
   line-height: 50px;
-  color: #f6768f;
   -webkit-text-fill-color: transparent;
-  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-width: 0.6px;
 }
 
 #forestillinger_3 {
-  color: #ff1e1c;
+  line-height: 40px;
 }
 
 /* ---------- Forestilling_1 ---------- */
@@ -201,13 +204,7 @@ nav a {
   transform-origin: top left;
   left: 0;
   top: 0;
-  transform: rotate(-90deg) translateX(-102%) translateY(2%);
-  padding-top: 2px;
-  font-size: 1.1rem;
-}
-
-#show1_venue {
-  transform: translateX(5%);
+  transform: rotate(-90deg) translateX(-102%) translateY(25%);
 }
 
 #show1_info {
@@ -215,16 +212,15 @@ nav a {
 }
 
 #show1_txt {
-  font-size: 1.1rem;
+  line-height: 17px;
 }
 
 #show1_venue {
   line-height: 50px;
   -webkit-text-fill-color: transparent;
   -webkit-text-stroke-width: 1px;
-  font-weight: 900;
-  font-size: 4rem;
   padding-left: 0.4rem;
+  transform: translateX(9%) translateY(-9%);
 }
 
 /* ---------- Forestilling_2 ---------- */
