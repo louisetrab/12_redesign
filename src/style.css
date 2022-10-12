@@ -406,8 +406,6 @@ nav a {
 
 /* ---------- Forestilling_7 ---------- */
 
-/* ---------- Købsprocess_trin ---------- */
-
 /* ---------- OM ---------- */
 #om_overskrift {
   color: #ff1e1c;
@@ -532,10 +530,8 @@ nav a {
 
 /* ---------- EVENTS ---------- */
 #events_head {
-  color: #ff1e1c;
-  font-weight: 900;
   font-size: 4rem;
-  letter-spacing: -10px;
+  letter-spacing: -6px;
   padding-right: 8px;
 }
 
@@ -552,13 +548,28 @@ nav a {
   padding-bottom: 80px;
 }
 
-#event_date {
+#event_date1 {
   transform-origin: top left;
   left: 0;
   top: 0;
-  transform: rotate(90deg) translateX(0) translateY(-60%);
+  transform: rotate(90deg) translateX(-35%) translateY(-55%);
   font-size: 1rem;
-  font-weight: 300;
+}
+
+#event_date2 {
+  transform-origin: top left;
+  left: 0;
+  top: 0;
+  transform: rotate(90deg) translateX(-35%) translateY(-47%);
+  font-size: 1rem;
+}
+
+#event_date3 {
+  transform-origin: top left;
+  left: 0;
+  top: 0;
+  transform: rotate(90deg) translateX(-35%) translateY(-47%);
+  font-size: 1rem;
 }
 
 #event_venue {
@@ -571,11 +582,6 @@ nav a {
 
 #event_alt {
   transform: translateX(-50%);
-}
-
-#event_button {
-  margin-top: 50px;
-  margin-left: 50px;
 }
 
 /* ---------- Tilbage knap ---------- */
@@ -759,7 +765,7 @@ nav a {
 
 /* ---------Color Blok Lille --------------*/
 #color_block_sm {
-  border-right: 30px solid #ff1e1c;
+  border-right: 15px solid #ff1e1c;
   transform: translateX(-0%) translateY(-10%) scaleY(30%) scaleX(152%)
     rotate(-90deg);
 }
