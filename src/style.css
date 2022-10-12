@@ -74,6 +74,7 @@ nav a {
     height: 44px;
     padding: 0.25rem;
     cursor: pointer;
+    font-size: 200%;
   }
 
   nav {
