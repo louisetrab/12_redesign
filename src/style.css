@@ -241,7 +241,6 @@ nav a {
 }
 
 #show2_info {
-  font-size: 1.5rem;
   letter-spacing: 4px;
 }
 
@@ -261,35 +260,24 @@ nav a {
 }
 
 #show3_venue {
-  font-size: 3rem;
   line-height: 50px;
   -webkit-text-fill-color: transparent;
   -webkit-text-stroke-width: 1px;
-  font-weight: 900;
 }
 
 #show3_info1 {
-  color: #ff1e1c;
-  font-size: 1.6rem;
-  font-weight: 500;
   line-height: 20px;
   padding-top: 15%;
-  transform: translateX(-5%);
+  transform: translateX(-9%);
 }
 
 #show3_info2 {
-  color: #ff1e1c;
-  font-size: 1.6rem;
-  font-weight: 500;
-  line-height: 20px;
+  line-height: 10px;
   padding-left: 21%;
   transform: translateX(2%);
 }
 
 #show3_info3 {
-  color: #ff1e1c;
-  font-size: 1.6rem;
-  font-weight: 500;
   line-height: 30px;
   transform: translateX(-12%);
 }
@@ -313,6 +301,11 @@ nav a {
 }
 
 #show3_date3 {
+  line-height: 29px;
+  padding-left: 2px;
+}
+
+#show3_date4 {
   line-height: 29px;
   padding-left: 2px;
 }
