@@ -398,6 +398,17 @@ nav a {
 }
 
 /* ---------- Forestilling_7 ---------- */
+#show7_info {
+  line-height: 20px;
+}
+
+#show7_venue1 {
+  line-height: 40px;
+}
+
+#show7_venue2 {
+  line-height: 35px;
+}
 
 /* ---------- OM ---------- */
 #om_overskrift {
