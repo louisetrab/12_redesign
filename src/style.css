@@ -300,11 +300,6 @@ nav a {
   line-height: 50px;
 }
 
-#show5_info {
-  line-height: 20px;
-  padding-left: 9px;
-}
-
 #show5_date1,
 #show5_date2,
 #show5_date3,
@@ -316,27 +311,24 @@ nav a {
   line-height: 18px;
 }
 
-#show5_button {
-  text-align: center;
-}
-
 /* ---------- Forestilling_6 ---------- */
 #show6_venue {
   transform-origin: top left;
   left: 0;
   top: 0;
-  transform: rotate(90deg) translateX(-6%) translateY(-50%);
+  transform: rotate(90deg) translateX(10%) translateY(-54%);
   padding-top: 2px;
+  line-height: 50px;
 }
 
 #show6_info {
   padding-top: 50px;
   line-height: 20px;
-  transform: translateX(-45%) translateY(25%);
+  transform: translateX(-65%) translateY(40%);
 }
 
 #show6_date1 {
-  transform: translateX(-10%) translateY(-60%);
+  transform: translateX(4%) translateY(-30%);
   line-height: 20px;
 }
 
