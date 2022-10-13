@@ -36,7 +36,6 @@ export default defineConfig({
         program: resolve(__dirname, "src/program.html"),
         rebirth: resolve(__dirname, "src/re-birth.html"),
         sitemap: resolve(__dirname, "src/sitemap.html"),
-        sitemap: resolve(__dirname, "src/sitemap.xml"),
         vildmedmig: resolve(__dirname, "src/vild-med-mig.html"),
         whatfirestogetherwirestogether: resolve(
           __dirname,
