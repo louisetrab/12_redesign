@@ -176,19 +176,22 @@ nav a {
 
 /* ---------- Forestillinger ---------- */
 #forestillinger_1 {
-  line-height: 50px;
+  line-height: 48px;
+  letter-spacing: 8px;
   -webkit-text-fill-color: transparent;
   -webkit-text-stroke-width: 0.3px;
 }
 
 #forestillinger_2 {
-  line-height: 65px;
+  line-height: 48px;
+  letter-spacing: 8px;
   -webkit-text-fill-color: transparent;
   -webkit-text-stroke-width: 0.6px;
 }
 
 #forestillinger_3 {
-  line-height: 40px;
+  line-height: 48px;
+  letter-spacing: 8px;
 }
 
 /* ---------- Forestilling_1 ---------- */
