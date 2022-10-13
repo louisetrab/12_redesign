@@ -320,11 +320,6 @@ nav a {
   line-height: 50px;
 }
 
-#show5_info {
-  line-height: 20px;
-  padding-left: 9px;
-}
-
 #show5_date1,
 #show5_date2,
 #show5_date3,
@@ -334,10 +329,6 @@ nav a {
 
 #show5_date2 {
   line-height: 18px;
-}
-
-#show5_button {
-  text-align: center;
 }
 
 /* ---------- Forestilling_6 ---------- */
