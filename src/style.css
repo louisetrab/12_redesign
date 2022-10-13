@@ -212,9 +212,6 @@ nav a {
 }
 
 /* ---------- Forestilling_1 ---------- */
-#show_1 {
-  padding-top: 10px;
-}
 
 #show1_date {
   transform-origin: top left;
@@ -227,22 +224,13 @@ nav a {
   transform: translateX(-43%);
 }
 
-#show1_txt {
-  line-height: 21px;
-}
-
-#show1_venue {
+.show1_venue {
   line-height: 50px;
   padding-left: 0.4rem;
   transform: translateX(9%) translateY(-9%);
 }
 
 /* ---------- Forestilling_2 ---------- */
-#show_2 {
-  padding-left: 10px;
-  padding-top: 10px;
-}
-
 #show2_venue {
   line-height: 40px;
 }
@@ -261,11 +249,6 @@ nav a {
 }
 
 /* ---------- Forestilling_3 ---------- */
-#show_3 {
-  padding-left: 10px;
-  padding-top: 10px;
-}
-
 #show3_venue {
   line-height: 50px;
 }
@@ -305,10 +288,6 @@ nav a {
 }
 
 /* ---------- Forestilling_4 ---------- */
-#show_4 {
-  padding-top: 10px;
-}
-
 #show4_venue {
   transform-origin: top left;
   left: 0;
@@ -344,11 +323,6 @@ nav a {
 }
 
 /* ---------- Forestilling_5 ---------- */
-#show_5 {
-  padding-left: 10px;
-  padding-top: 10px;
-}
-
 #show5_venue {
   line-height: 50px;
 }
@@ -374,10 +348,6 @@ nav a {
 }
 
 /* ---------- Forestilling_6 ---------- */
-#show_6 {
-  padding-top: 10px;
-}
-
 #show6_venue {
   transform-origin: top left;
   left: 0;
